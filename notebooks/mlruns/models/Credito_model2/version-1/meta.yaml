@@ -1,0 +1,14 @@
+aliases: []
+creation_timestamp: 1729617697111
+current_stage: Production
+description: ''
+last_updated_timestamp: 1729617715696
+name: Credito_model2
+run_id: 2403555beb644085a70149786bae9a82
+run_link: ''
+source: file:///d:/EntregableMLA/notebooks/mlruns/142787257619671728/2403555beb644085a70149786bae9a82/artifacts/model
+status: READY
+status_message: null
+storage_location: file:///d:/EntregableMLA/notebooks/mlruns/142787257619671728/2403555beb644085a70149786bae9a82/artifacts/model
+user_id: null
+version: 1
