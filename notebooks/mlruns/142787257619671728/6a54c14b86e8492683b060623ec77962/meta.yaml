@@ -1,0 +1,15 @@
+artifact_uri: file:///d:/EntregableMLA/notebooks/mlruns/142787257619671728/6a54c14b86e8492683b060623ec77962/artifacts
+end_time: 1729606873533
+entry_point_name: ''
+experiment_id: '142787257619671728'
+lifecycle_stage: active
+run_id: 6a54c14b86e8492683b060623ec77962
+run_name: Random Forest Classifier
+run_uuid: 6a54c14b86e8492683b060623ec77962
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1729606872764
+status: 3
+tags: []
+user_id: admin
